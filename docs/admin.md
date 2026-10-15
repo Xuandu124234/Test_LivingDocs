@@ -1,9 +1,12 @@
-# Admin Dashboard
+# ## Code Entity Reference
 
-The dashboard uses the `StatItem` interface from `AdminDashboardPage.tsx`
-to render each statistic on the homepage.
+The Following Code Entities Are Referenced In This Documentation:
 
-## Usage
+{{#Sources}}
+- `{{Qualified_Name}}` ({{Kind}}) - {{Signature}}
+{{/Sources}}
 
-```tsx
-<StatItem label="Users" value={42} />
+Please Ensure The Documentation Above Accurately Reflects The Current Implementation.
+ (no source provided)
+
+_The generator received no parsable source files._
